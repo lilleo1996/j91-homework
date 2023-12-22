@@ -1,0 +1,24 @@
+.name-card{
+    margin-top: 8px;
+    padding: 0 8px ;
+    background-color: whitesmoke;
+    color: black;
+    border-radius: 5px;
+    text-align: left;
+    width: 500px;
+}
+.name{
+    font-weight: 900;
+    font-size: 30px;
+}
+.age{
+    font-style: italic;
+}
+
+.red {
+    background-color: red;
+}
+
+.blue {
+    background-color: blue;
+}
